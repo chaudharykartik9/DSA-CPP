@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0162-find-peak-element) |
+| [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0875-koko-eating-bananas) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
 ## Manacher
 |  |
 | ------- |
@@ -84,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0004-median-of-two-sorted-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
