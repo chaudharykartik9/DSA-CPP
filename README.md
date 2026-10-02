@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/chaudharykartik9/DSA-CPP/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2643-row-with-maximum-ones](https://github.com/chaudharykartik9/DSA-CPP/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/chaudharykartik9/DSA-CPP/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
