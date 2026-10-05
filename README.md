@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
+| [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/chaudharykartik9/DSA-CPP/tree/master/2643-row-with-maximum-ones) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
