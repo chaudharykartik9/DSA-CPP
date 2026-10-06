@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -118,8 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
