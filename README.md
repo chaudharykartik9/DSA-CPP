@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
