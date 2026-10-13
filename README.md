@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0162-find-peak-element) |
@@ -137,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
