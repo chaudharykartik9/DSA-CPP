@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0069-sqrtx) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
 ## Manacher
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -145,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
