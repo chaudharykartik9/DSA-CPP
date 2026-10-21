@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0875-koko-eating-bananas) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
