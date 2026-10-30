@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chaudharykartik9/DSA-CPP/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
