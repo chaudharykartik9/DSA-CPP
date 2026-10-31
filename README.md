@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0322-coin-change) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0140-word-break-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/chaudharykartik9/DSA-CPP/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
