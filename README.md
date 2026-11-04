@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 ## Breadth-First Search
 |  |
@@ -198,4 +199,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/chaudharykartik9/DSA-CPP/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
